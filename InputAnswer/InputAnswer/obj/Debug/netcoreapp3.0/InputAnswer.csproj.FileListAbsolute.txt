@@ -1,0 +1,11 @@
+C:\Users\shelb\source\repos\InputAnswer\InputAnswer\bin\Debug\netcoreapp3.0\InputAnswer.exe
+C:\Users\shelb\source\repos\InputAnswer\InputAnswer\bin\Debug\netcoreapp3.0\InputAnswer.deps.json
+C:\Users\shelb\source\repos\InputAnswer\InputAnswer\bin\Debug\netcoreapp3.0\InputAnswer.runtimeconfig.json
+C:\Users\shelb\source\repos\InputAnswer\InputAnswer\bin\Debug\netcoreapp3.0\InputAnswer.runtimeconfig.dev.json
+C:\Users\shelb\source\repos\InputAnswer\InputAnswer\bin\Debug\netcoreapp3.0\InputAnswer.dll
+C:\Users\shelb\source\repos\InputAnswer\InputAnswer\bin\Debug\netcoreapp3.0\InputAnswer.pdb
+C:\Users\shelb\source\repos\InputAnswer\InputAnswer\obj\Debug\netcoreapp3.0\InputAnswer.csprojAssemblyReference.cache
+C:\Users\shelb\source\repos\InputAnswer\InputAnswer\obj\Debug\netcoreapp3.0\InputAnswer.AssemblyInfoInputs.cache
+C:\Users\shelb\source\repos\InputAnswer\InputAnswer\obj\Debug\netcoreapp3.0\InputAnswer.AssemblyInfo.cs
+C:\Users\shelb\source\repos\InputAnswer\InputAnswer\obj\Debug\netcoreapp3.0\InputAnswer.dll
+C:\Users\shelb\source\repos\InputAnswer\InputAnswer\obj\Debug\netcoreapp3.0\InputAnswer.pdb
